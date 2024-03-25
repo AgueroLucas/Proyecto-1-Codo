@@ -1,0 +1,29 @@
+/* Estilos para el header */
+header {
+    background-color: #333; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 20px; /* Espaciado interno */
+}
+
+  /* Estilos para el título dentro del header */
+header h1 {
+    margin: 0; /* Eliminar el margen por defecto */
+}
+
+/* Estilos para la barra de navegación dentro del header */
+header nav ul {
+    list-style-type: none; /* Eliminar los estilos de lista */
+    padding: 0; /* Eliminar el relleno */
+}
+
+  /* Estilos para los elementos de la lista dentro del header */
+header nav ul li {
+    display: inline; /* Mostrar los elementos de la lista en línea */
+    margin-right: 20px; /* Espaciado entre los elementos */
+}
+
+  /* Estilos para los enlaces dentro del header */
+header nav ul li a {
+    color: white; /* Color del texto */
+    text-decoration: none; /* Eliminar la subrayado de los enlaces */
+}
